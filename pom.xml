@@ -4,7 +4,7 @@
  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>us.fatehi</groupId>
-  <artifactId>schemacrawler-shell</artifactId>
+  <artifactId>schemacrawler-teiid</artifactId>
   <version>100.0.0+unpublished</version>
   <packaging>jar</packaging>
 
